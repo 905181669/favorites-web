@@ -4,8 +4,7 @@
     <groupId>com.favorites</groupId>
     <artifactId>favorites-web</artifactId>
     <version>1.0.0</version>
-	<packaging>jar</packaging>
-	
+	<packaging>jar</packaging>	
 	<parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
